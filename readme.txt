@@ -1,5 +1,5 @@
 Python version 3.6.5 
-I am just a beginner so sorry for the mistakes with the data types. Also, a1 in the name of the python file indicates the question belongs to hw0 and similarly a2 indicates a question from hw1.
+Also, a1 in the name of the python file indicates the question belongs to hw0 and similarly a2 indicates a question from hw1.
 
 Problem 1: This plots a straight line regression. We can clearly observe our model not entirely capturing the relation between the input and output labels.
 
